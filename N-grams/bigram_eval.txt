@@ -1,0 +1,200 @@
+Line 1: Probability = 0.0
+		: Cannot compute perplexity due to zero probability.
+Line 2: Probability = 0.0
+		: Cannot compute perplexity due to zero probability.
+Line 3: Probability = 0.0
+		: Cannot compute perplexity due to zero probability.
+Line 4: Probability = 0.0
+		: Cannot compute perplexity due to zero probability.
+Line 5: Probability = 0.0
+		: Cannot compute perplexity due to zero probability.
+Line 6: Probability = 0.0
+		: Cannot compute perplexity due to zero probability.
+Line 7: Probability = 0.0
+		: Cannot compute perplexity due to zero probability.
+Line 8: Probability = 0.0
+		: Cannot compute perplexity due to zero probability.
+Line 9: Probability = 0
+		: Cannot compute perplexity due to zero probability.
+Line 10: Probability = 0.0
+		: Cannot compute perplexity due to zero probability.
+Line 11: Probability = 0.0
+		: Cannot compute perplexity due to zero probability.
+Line 12: Probability = 0.0
+		: Cannot compute perplexity due to zero probability.
+Line 13: Probability = 0.0
+		: Cannot compute perplexity due to zero probability.
+Line 14: Probability = 0.0
+		: Cannot compute perplexity due to zero probability.
+Line 15: Probability = 0.0
+		: Cannot compute perplexity due to zero probability.
+Line 16: Probability = 0.0
+		: Cannot compute perplexity due to zero probability.
+Line 17: Probability = 0.0
+		: Cannot compute perplexity due to zero probability.
+Line 18: Probability = 0.0
+		: Cannot compute perplexity due to zero probability.
+Line 19: Probability = 0.0
+		: Cannot compute perplexity due to zero probability.
+Line 20: Probability = 0.0
+		: Cannot compute perplexity due to zero probability.
+Line 21: Probability = 0.0
+		: Cannot compute perplexity due to zero probability.
+Line 22: Probability = 0.0
+		: Cannot compute perplexity due to zero probability.
+Line 23: Probability = 0.0
+		: Cannot compute perplexity due to zero probability.
+Line 24: Probability = 0.0
+		: Cannot compute perplexity due to zero probability.
+Line 25: Probability = 0.0
+		: Cannot compute perplexity due to zero probability.
+Line 26: Probability = 0.0
+		: Cannot compute perplexity due to zero probability.
+Line 27: Probability = 0.0
+		: Cannot compute perplexity due to zero probability.
+Line 28: Probability = 0.0
+		: Cannot compute perplexity due to zero probability.
+Line 29: Probability = 0.0
+		: Cannot compute perplexity due to zero probability.
+Line 30: Probability = 0.0
+		: Cannot compute perplexity due to zero probability.
+Line 31: Probability = 0.0
+		: Cannot compute perplexity due to zero probability.
+Line 32: Probability = 0.0
+		: Cannot compute perplexity due to zero probability.
+Line 33: Probability = 0.0
+		: Cannot compute perplexity due to zero probability.
+Line 34: Probability = 0.0
+		: Cannot compute perplexity due to zero probability.
+Line 35: Probability = 1
+		: Perplexity = 1.0
+Line 36: Probability = 0.0
+		: Cannot compute perplexity due to zero probability.
+Line 37: Probability = 0.0
+		: Cannot compute perplexity due to zero probability.
+Line 38: Probability = 0.0
+		: Cannot compute perplexity due to zero probability.
+Line 39: Probability = 0.0
+		: Cannot compute perplexity due to zero probability.
+Line 40: Probability = 0.0
+		: Cannot compute perplexity due to zero probability.
+Line 41: Probability = 0.0
+		: Cannot compute perplexity due to zero probability.
+Line 42: Probability = 0.0
+		: Cannot compute perplexity due to zero probability.
+Line 43: Probability = 0.0
+		: Cannot compute perplexity due to zero probability.
+Line 44: Probability = 0.0
+		: Cannot compute perplexity due to zero probability.
+Line 45: Probability = 0.0
+		: Cannot compute perplexity due to zero probability.
+Line 46: Probability = 0.0
+		: Cannot compute perplexity due to zero probability.
+Line 47: Probability = 0.0
+		: Cannot compute perplexity due to zero probability.
+Line 48: Probability = 1
+		: Perplexity = 1.0
+Line 49: Probability = 0.0
+		: Cannot compute perplexity due to zero probability.
+Line 50: Probability = 0.0
+		: Cannot compute perplexity due to zero probability.
+Line 51: Probability = 0.0
+		: Cannot compute perplexity due to zero probability.
+Line 52: Probability = 0.0
+		: Cannot compute perplexity due to zero probability.
+Line 53: Probability = 0
+		: Cannot compute perplexity due to zero probability.
+Line 54: Probability = 0.0
+		: Cannot compute perplexity due to zero probability.
+Line 55: Probability = 0.0
+		: Cannot compute perplexity due to zero probability.
+Line 56: Probability = 0.0
+		: Cannot compute perplexity due to zero probability.
+Line 57: Probability = 0.0
+		: Cannot compute perplexity due to zero probability.
+Line 58: Probability = 0.0
+		: Cannot compute perplexity due to zero probability.
+Line 59: Probability = 0.0
+		: Cannot compute perplexity due to zero probability.
+Line 60: Probability = 0.0
+		: Cannot compute perplexity due to zero probability.
+Line 61: Probability = 0.0
+		: Cannot compute perplexity due to zero probability.
+Line 62: Probability = 0.0
+		: Cannot compute perplexity due to zero probability.
+Line 63: Probability = 0.0
+		: Cannot compute perplexity due to zero probability.
+Line 64: Probability = 0.0
+		: Cannot compute perplexity due to zero probability.
+Line 65: Probability = 0.0
+		: Cannot compute perplexity due to zero probability.
+Line 66: Probability = 1
+		: Perplexity = 1.0
+Line 67: Probability = 0.0
+		: Cannot compute perplexity due to zero probability.
+Line 68: Probability = 0.0
+		: Cannot compute perplexity due to zero probability.
+Line 69: Probability = 0.0
+		: Cannot compute perplexity due to zero probability.
+Line 70: Probability = 0.0
+		: Cannot compute perplexity due to zero probability.
+Line 71: Probability = 0.0
+		: Cannot compute perplexity due to zero probability.
+Line 72: Probability = 0.0
+		: Cannot compute perplexity due to zero probability.
+Line 73: Probability = 0.0
+		: Cannot compute perplexity due to zero probability.
+Line 74: Probability = 0.0
+		: Cannot compute perplexity due to zero probability.
+Line 75: Probability = 0.0
+		: Cannot compute perplexity due to zero probability.
+Line 76: Probability = 0.0
+		: Cannot compute perplexity due to zero probability.
+Line 77: Probability = 0.0
+		: Cannot compute perplexity due to zero probability.
+Line 78: Probability = 0.0
+		: Cannot compute perplexity due to zero probability.
+Line 79: Probability = 0.0
+		: Cannot compute perplexity due to zero probability.
+Line 80: Probability = 0.0
+		: Cannot compute perplexity due to zero probability.
+Line 81: Probability = 0.0
+		: Cannot compute perplexity due to zero probability.
+Line 82: Probability = 0.0
+		: Cannot compute perplexity due to zero probability.
+Line 83: Probability = 0.0
+		: Cannot compute perplexity due to zero probability.
+Line 84: Probability = 0.0
+		: Cannot compute perplexity due to zero probability.
+Line 85: Probability = 0.0
+		: Cannot compute perplexity due to zero probability.
+Line 86: Probability = 0.0
+		: Cannot compute perplexity due to zero probability.
+Line 87: Probability = 0.0
+		: Cannot compute perplexity due to zero probability.
+Line 88: Probability = 0.0
+		: Cannot compute perplexity due to zero probability.
+Line 89: Probability = 0.0
+		: Cannot compute perplexity due to zero probability.
+Line 90: Probability = 0.0
+		: Cannot compute perplexity due to zero probability.
+Line 91: Probability = 1
+		: Perplexity = 1.0
+Line 92: Probability = 1
+		: Perplexity = 1.0
+Line 93: Probability = 0.0
+		: Cannot compute perplexity due to zero probability.
+Line 94: Probability = 0.0
+		: Cannot compute perplexity due to zero probability.
+Line 95: Probability = 0.0
+		: Cannot compute perplexity due to zero probability.
+Line 96: Probability = 0.0
+		: Cannot compute perplexity due to zero probability.
+Line 97: Probability = 0
+		: Cannot compute perplexity due to zero probability.
+Line 98: Probability = 0.0
+		: Cannot compute perplexity due to zero probability.
+Line 99: Probability = 0.0
+		: Cannot compute perplexity due to zero probability.
+Line 100: Probability = 0.0
+		: Cannot compute perplexity due to zero probability.

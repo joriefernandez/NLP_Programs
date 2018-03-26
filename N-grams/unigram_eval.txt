@@ -1,0 +1,200 @@
+Line 1: Probability = 0.0
+	   : Cannot compute perplexity due to zero probability.
+Line 2: Probability = 5.405499174474433e-16
+	   : Perplexity = 350.3703651512557
+Line 3: Probability = 2.18631675194135e-37
+	   : Perplexity = 660.7270249009583
+Line 4: Probability = 0.0
+	   : Cannot compute perplexity due to zero probability.
+Line 5: Probability = 0.0
+	   : Cannot compute perplexity due to zero probability.
+Line 6: Probability = 0.0
+	   : Cannot compute perplexity due to zero probability.
+Line 7: Probability = 0.0
+	   : Cannot compute perplexity due to zero probability.
+Line 8: Probability = 0.0
+	   : Cannot compute perplexity due to zero probability.
+Line 9: Probability = 0.0
+	   : Cannot compute perplexity due to zero probability.
+Line 10: Probability = 0.0
+	   : Cannot compute perplexity due to zero probability.
+Line 11: Probability = 0.0
+	   : Cannot compute perplexity due to zero probability.
+Line 12: Probability = 0.0
+	   : Cannot compute perplexity due to zero probability.
+Line 13: Probability = 5.218180964376818e-46
+	   : Perplexity = 3042.7604228431655
+Line 14: Probability = 0.0
+	   : Cannot compute perplexity due to zero probability.
+Line 15: Probability = 0.0
+	   : Cannot compute perplexity due to zero probability.
+Line 16: Probability = 0.0
+	   : Cannot compute perplexity due to zero probability.
+Line 17: Probability = 0.0
+	   : Cannot compute perplexity due to zero probability.
+Line 18: Probability = 9.90243017716938e-38
+	   : Perplexity = 702.233269175094
+Line 19: Probability = 0.0
+	   : Cannot compute perplexity due to zero probability.
+Line 20: Probability = 0.0
+	   : Cannot compute perplexity due to zero probability.
+Line 21: Probability = 5.293894672439601e-24
+	   : Perplexity = 212.62898711202052
+Line 22: Probability = 2.9601830265367535e-37
+	   : Perplexity = 406.62261700895584
+Line 23: Probability = 0.0
+	   : Cannot compute perplexity due to zero probability.
+Line 24: Probability = 2.4179804588612437e-41
+	   : Perplexity = 796.4929641610784
+Line 25: Probability = 8.53873030679635e-42
+	   : Perplexity = 2644.745530953573
+Line 26: Probability = 0.0
+	   : Cannot compute perplexity due to zero probability.
+Line 27: Probability = 0.0
+	   : Cannot compute perplexity due to zero probability.
+Line 28: Probability = 7.565527982020483e-37
+	   : Perplexity = 600.552290281984
+Line 29: Probability = 0.0
+	   : Cannot compute perplexity due to zero probability.
+Line 30: Probability = 0.0
+	   : Cannot compute perplexity due to zero probability.
+Line 31: Probability = 0.0
+	   : Cannot compute perplexity due to zero probability.
+Line 32: Probability = 2.2583942065353546e-42
+	   : Perplexity = 400.762904589639
+Line 33: Probability = 3.5318056222338743e-37
+	   : Perplexity = 1090.6036174345386
+Line 34: Probability = 0.0
+	   : Cannot compute perplexity due to zero probability.
+Line 35: Probability = 0.00019961407944640362
+	   : Perplexity = 5009.666666666667
+Line 36: Probability = 0.0
+	   : Cannot compute perplexity due to zero probability.
+Line 37: Probability = 0.0
+	   : Cannot compute perplexity due to zero probability.
+Line 38: Probability = 0.0
+	   : Cannot compute perplexity due to zero probability.
+Line 39: Probability = 6.075414738352016e-42
+	   : Perplexity = 879.0838280472053
+Line 40: Probability = 0.0
+	   : Cannot compute perplexity due to zero probability.
+Line 41: Probability = 0.0
+	   : Cannot compute perplexity due to zero probability.
+Line 42: Probability = 0.0
+	   : Cannot compute perplexity due to zero probability.
+Line 43: Probability = 0.0
+	   : Cannot compute perplexity due to zero probability.
+Line 44: Probability = 0.0
+	   : Cannot compute perplexity due to zero probability.
+Line 45: Probability = 0.0
+	   : Cannot compute perplexity due to zero probability.
+Line 46: Probability = 0.0
+	   : Cannot compute perplexity due to zero probability.
+Line 47: Probability = 0.0
+	   : Cannot compute perplexity due to zero probability.
+Line 48: Probability = 0.0004467553206657605
+	   : Perplexity = 2238.3617021276596
+Line 49: Probability = 0.0
+	   : Cannot compute perplexity due to zero probability.
+Line 50: Probability = 0.0
+	   : Cannot compute perplexity due to zero probability.
+Line 51: Probability = 0.0
+	   : Cannot compute perplexity due to zero probability.
+Line 52: Probability = 0.0
+	   : Cannot compute perplexity due to zero probability.
+Line 53: Probability = 0.0
+	   : Cannot compute perplexity due to zero probability.
+Line 54: Probability = 0.0
+	   : Cannot compute perplexity due to zero probability.
+Line 55: Probability = 1.3252873932508238e-33
+	   : Perplexity = 338.1061510322242
+Line 56: Probability = 0.0
+	   : Cannot compute perplexity due to zero probability.
+Line 57: Probability = 4.461595768932632e-29
+	   : Perplexity = 1412.7217849132542
+Line 58: Probability = 0.0
+	   : Cannot compute perplexity due to zero probability.
+Line 59: Probability = 0.0
+	   : Cannot compute perplexity due to zero probability.
+Line 60: Probability = 0.0
+	   : Cannot compute perplexity due to zero probability.
+Line 61: Probability = 0.0
+	   : Cannot compute perplexity due to zero probability.
+Line 62: Probability = 0.0
+	   : Cannot compute perplexity due to zero probability.
+Line 63: Probability = 0.0
+	   : Cannot compute perplexity due to zero probability.
+Line 64: Probability = 0.0
+	   : Cannot compute perplexity due to zero probability.
+Line 65: Probability = 0.0
+	   : Cannot compute perplexity due to zero probability.
+Line 66: Probability = 0.00017109778238263168
+	   : Perplexity = 5844.61111111111
+Line 67: Probability = 3.1449556894552654e-24
+	   : Perplexity = 408.6732045026788
+Line 68: Probability = 0.0
+	   : Cannot compute perplexity due to zero probability.
+Line 69: Probability = 0.0
+	   : Cannot compute perplexity due to zero probability.
+Line 70: Probability = 1.0099900943512486e-26
+	   : Perplexity = 773.4089785433213
+Line 71: Probability = 4.228664178947824e-16
+	   : Perplexity = 365.0055492688876
+Line 72: Probability = 1.6439241958293866e-38
+	   : Perplexity = 499.8797990893238
+Line 73: Probability = 0.0
+	   : Cannot compute perplexity due to zero probability.
+Line 74: Probability = 2.1621874582669063e-34
+	   : Perplexity = 1149.3816028067215
+Line 75: Probability = 1.3603713527849483e-31
+	   : Perplexity = 373.4179669942551
+Line 76: Probability = 5.7989020749832716e-21
+	   : Perplexity = 338.51800918001817
+Line 77: Probability = 0.0
+	   : Cannot compute perplexity due to zero probability.
+Line 78: Probability = 0.0
+	   : Cannot compute perplexity due to zero probability.
+Line 79: Probability = 0.0
+	   : Cannot compute perplexity due to zero probability.
+Line 80: Probability = 0.0
+	   : Cannot compute perplexity due to zero probability.
+Line 81: Probability = 0.0
+	   : Cannot compute perplexity due to zero probability.
+Line 82: Probability = 0.0
+	   : Cannot compute perplexity due to zero probability.
+Line 83: Probability = 0.0
+	   : Cannot compute perplexity due to zero probability.
+Line 84: Probability = 1.9961823710238217e-38
+	   : Perplexity = 794.3000662630604
+Line 85: Probability = 8.348641204424313e-21
+	   : Perplexity = 738.4831669772104
+Line 86: Probability = 0.0
+	   : Cannot compute perplexity due to zero probability.
+Line 87: Probability = 3.424975821903925e-37
+	   : Perplexity = 638.3022060168478
+Line 88: Probability = 5.005318290517212e-34
+	   : Perplexity = 1064.938163728646
+Line 89: Probability = 4.272029620158627e-35
+	   : Perplexity = 440.3493554409004
+Line 90: Probability = 2.961845388936317e-35
+	   : Perplexity = 452.93268596902595
+Line 91: Probability = 0
+	   : Cannot compute perplexity due to zero probability.
+Line 92: Probability = 0.00030417383534690073
+	   : Perplexity = 3287.5937500000005
+Line 93: Probability = 0.0
+	   : Cannot compute perplexity due to zero probability.
+Line 94: Probability = 2.6830836483795596e-39
+	   : Perplexity = 926.8898736845777
+Line 95: Probability = 6.182510050845968e-69
+	   : Perplexity = 1260.0900973265507
+Line 96: Probability = 9.336088190393303e-30
+	   : Perplexity = 262.51427304305065
+Line 97: Probability = 2.389343137419263e-27
+	   : Perplexity = 2126.7438445889784
+Line 98: Probability = 5.814946626311629e-13
+	   : Perplexity = 279.956692152702
+Line 99: Probability = 2.265799869300436e-25
+	   : Perplexity = 547.4049458189498
+Line 100: Probability = 0.0
+	   : Cannot compute perplexity due to zero probability.
